@@ -3,6 +3,6 @@ var app = new Vue({
     data: {
         product: 'Socks',
         image: './images/green_socks.jpeg',
-        testLink: 'https://cityaq.com'
+        inStock: true
     }
 })
